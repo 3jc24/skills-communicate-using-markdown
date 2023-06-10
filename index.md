@@ -14,3 +14,9 @@
 ```python
 print ("Hello World")
 ```
+
+# Adding Tasks
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
